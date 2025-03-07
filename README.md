@@ -38,6 +38,9 @@ This script removes `"open":true` part forcing Obsidian to open Vault Manager.
 Explanation with code files [here](README-resources/HOW-IT-WORKS.md)
 
 ---
+# Support my work
+
+<a href="https://ko-fi.com/DrSapling"><img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_badge_red.png" width="20%"/></a>
 
 # ToDo
 - [ ] installation script
